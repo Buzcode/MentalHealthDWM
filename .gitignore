@@ -1,0 +1,4 @@
+bin/
+*.class
+temp_sanitized_survey.csv
+.vscode/
